@@ -1,5 +1,5 @@
 {
-  "name": "movit-frontend",
+  "name": "movit-login",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
